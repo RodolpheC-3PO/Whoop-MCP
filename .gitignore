@@ -1,0 +1,10 @@
+.env
+src/__pycache__/
+__pycache__/
+*.pyc
+venv/
+.venv/
+tokens.json
+.claude/
+.idea/
+.vscode/
